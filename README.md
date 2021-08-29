@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LarissaEmanuele
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 📫 How to reach me https://www.linkedin.com/in/larissaemanuelesantos
-- Discord: Larissa Santos#5732
+- 📫 How to reach me https://www.linkedin.com/in/larissaemanuelesantos Discord: Larissa Santos#5732
 
 <!---
 LarissaEmanuele/LarissaEmanuele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
