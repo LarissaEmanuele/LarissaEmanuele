@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @LarissaEmanuele
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👋 Oi, meu nome é @LarissaEmanuele
+- 👀 Tenho interesse em aprender coisas novas.
 - 📫 How to reach me https://www.linkedin.com/in/larissaemanuelesantos Discord: Larissa Santos#5732
 
 <!---
